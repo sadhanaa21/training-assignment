@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-facade-xml type="demo">
+    <tutorial.Person LAST_NAME="Public" FIRST_NAME="Joe" MIDDLE_NAME="Q" PARTY_ID="CustDemo1" SALUTATION="Mr" GENDER="M" BIRTH_DATE="1999-06-15" MARITAL_STATUS_ENUM_ID="MarsSingle" EMPLOYMENT_STATUS_ENUM_ID="EmpsFullTime" OCCUPATION="Software Engineer"/>
+    <tutorial.Person LAST_NAME="Smith" FIRST_NAME="Jack" MIDDLE_NAME="John" PARTY_ID="CustDemo2" SALUTATION="Mr" GENDER="M" BIRTH_DATE="1999-06-14" MARITAL_STATUS_ENUM_ID="MarsSingle" EMPLOYMENT_STATUS_ENUM_ID="EmpsFullTime" OCCUPATION="Doctor"/>
+    <tutorial.Person LAST_NAME="Brown" FIRST_NAME="Lily" MIDDLE_NAME="J" PARTY_ID="CustDemo3" SALUTATION="Ms" GENDER="F" BIRTH_DATE="1998-06-11" MARITAL_STATUS_ENUM_ID="MarsDivorced" EMPLOYMENT_STATUS_ENUM_ID="EmpsPartTime" OCCUPATION="Software Engineer"/>
+    <tutorial.Person LAST_NAME="Norvig" FIRST_NAME="John" MIDDLE_NAME="J" PARTY_ID="CustDemo4" SALUTATION="Ms" GENDER="F" BIRTH_DATE="1998-06-11" MARITAL_STATUS_ENUM_ID="MarsSingle" EMPLOYMENT_STATUS_ENUM_ID="EmpsFullTime" OCCUPATION="Software Engineer"/>
+    <tutorial.Person LAST_NAME="William" FIRST_NAME="Charlie" MIDDLE_NAME="Jack" PARTY_ID="CustDemo5" SALUTATION="Mr" GENDER="F" BIRTH_DATE="1993-05-20" MARITAL_STATUS_ENUM_ID="MarsMarried" EMPLOYMENT_STATUS_ENUM_ID="EmpsSelf" OCCUPATION="Architect"/>
+    <tutorial.Person LAST_NAME="Evans" FIRST_NAME="James" MIDDLE_NAME="W" PARTY_ID="CustDemo6" SALUTATION="Mr" GENDER="M" BIRTH_DATE="1998-06-11" MARITAL_STATUS_ENUM_ID="MarsMarried" EMPLOYMENT_STATUS_ENUM_ID="EmpsFullTime" OCCUPATION="Civil Engineer"/>
+</entity-facade-xml>

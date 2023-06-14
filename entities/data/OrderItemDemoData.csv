@@ -1,0 +1,22 @@
+tutorial.OrderItem,demo
+ORDER_ID,ORDER_PART_SEQ_ID,ITEM_TYPE_ENUM_ID,ITEM_DESCRIPTION,ORDER_ITEM_SEQ_ID,QUANTITY,PRODUCT_ID,UNIT_AMOUNT,PARENT_ITEM_SEQ_ID
+100051,01,ItemProduct,Demo Product Unit One,01,1,DEMO_UNIT_1,16.99,
+100051,02,ItemProduct,Demo Product Unit Two,02,3,DEMO_UNIT_2,18.99,
+100051,02,ItemSalesTax,Sales Tax,03,3,,1.33,02
+100052,01,ItemProduct,Demo Product Unit Three,01,1,DEMO_UNIT_3,14.99,
+100052,01,ItemSalesTax,Sales Tax,02,1,,1.33,01
+100102,01,ItemProduct,Demo Product Unit One,01,3,DEMO_UNIT_1,16.99,
+100102,01,ItemProduct,Demo Product Unit Two,02,3,DEMO_UNIT_2,18.99,
+100102,01,ItemSalesTax,Sales Tax,03,3,,2.33,02
+100102,02,ItemProduct,Demo Product Unit Three,04,1,DEMO_UNIT_3,14.99,
+100153,01,ItemProduct,Demo Product Unit Three,01,1,DEMO_UNIT_3,14.99,
+100153,01,ItemSalesTax,Sales Tax,02,1,,1.33,01
+100153,01,ItemProduct,Demo Product Unit Four,03,1,DEMO_UNIT_4,12.99,
+100153,01,ItemSalesTax,Sales Tax,04,1,,2.33,03
+100255,01,ItemProduct,Demo Product Unit Four,01,3,DEMO_UNIT_4,12.99,
+100255,01,ItemSalesTax,Sales Tax,02,3,,1.33,01
+100255,02,ItemProduct,Demo Product Unit Five,03,3,DEMO_UNIT_5,10.99,
+100061,01,ItemProduct,Demo Product Unit Two,01,2,DEMO_UNIT_2,15.99,
+100061,02,ItemProduct,Demo Product Unit Five,02,1,DEMO_UNIT_5,55.09,
+100064,01,ItemProduct,Demo Product Unit Five,01,3,DEMO_UNIT_5,12.07,
+100064,02,ItemProduct,Demo Product Unit Two,02,2,DEMO_UNIT_2,6.33,

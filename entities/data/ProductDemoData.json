@@ -1,0 +1,47 @@
+[
+  {"_dataType": "demo" },
+  {
+    "_entity": "tutorial.Product",
+    "CHARGE_SHIPPING": "N",
+    "PRODUCT_NAME": "Demo Product Unit One",
+    "PRODUCT_ID": "DEMO_UNIT_1",
+    "OWNER_PARTY_ID": "ORG_ZIZI_RETAIL",
+    "RETURNABLE": "Y",
+    "DESCRIPTION": "This is Demo Product Unit One"
+  },
+  {
+    "_entity": "tutorial.Product",
+    "CHARGE_SHIPPING": "Y",
+    "PRODUCT_NAME": "Demo Product Unit Two",
+    "PRODUCT_ID": "DEMO_UNIT_2",
+    "OWNER_PARTY_ID": "ORG_ZIZI_RETAIL",
+    "RETURNABLE": "Y",
+    "DESCRIPTION": "This is Demo Product Unit Two"
+  },
+  {
+    "_entity": "tutorial.Product",
+    "CHARGE_SHIPPING": "Y",
+    "PRODUCT_NAME": "Demo Product Unit Three",
+    "PRODUCT_ID": "DEMO_UNIT_3",
+    "OWNER_PARTY_ID": "ORG_ZIZI_RETAIL",
+    "RETURNABLE": "N",
+    "DESCRIPTION": "This is Demo Product Unit Three"
+  },
+  {
+    "_entity": "tutorial.Product",
+    "CHARGE_SHIPPING": "Y",
+    "PRODUCT_NAME": "Demo Product Unit Four",
+    "PRODUCT_ID": "DEMO_UNIT_4",
+    "OWNER_PARTY_ID": "ORG_ZIZI_RETAIL",
+    "RETURNABLE": "Y",
+    "DESCRIPTION": "This is Demo Product Unit Four"
+  },
+  {
+    "_entity": "tutorial.Product",
+    "CHARGE_SHIPPING": "Y",
+    "PRODUCT_NAME": "Demo Product Unit Five",
+    "PRODUCT_ID": "DEMO_UNIT_5",
+    "OWNER_PARTY_ID": "ORG_ZIZI_RETAIL",
+    "RETURNABLE": "N",
+    "DESCRIPTION": "This is Demo Product Unit Five"
+  }]

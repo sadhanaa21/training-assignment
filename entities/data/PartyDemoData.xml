@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-facade-xml type="demo">
+    <tutorial.Party PARTY_ID="CustDemo1" PARTY_TYPE_ENUM_ID="PtyPerson"/>
+    <tutorial.Party PARTY_ID="CustDemo2" PARTY_TYPE_ENUM_ID="PtyPerson"/>
+    <tutorial.Party PARTY_ID="CustDemo3" PARTY_TYPE_ENUM_ID="PtyPerson"/>
+    <tutorial.Party PARTY_ID="CustDemo4" PARTY_TYPE_ENUM_ID="PtyPerson"/>
+    <tutorial.Party PARTY_ID="CustDemo5" PARTY_TYPE_ENUM_ID="PtyPerson"/>
+    <tutorial.Party PARTY_ID="CustDemo6" PARTY_TYPE_ENUM_ID="PtyPerson"/>
+    <tutorial.Party PARTY_ID="ORG_ZIZI_RETAIL" PARTY_TYPE_ENUM_ID="PtyOrganization"/>
+</entity-facade-xml>
