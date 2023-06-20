@@ -1,0 +1,33 @@
+<resource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://moqui.org/xsd/rest-api-3.xsd"
+          name="OrderAPIs" displayName="OrderHeaderRest" version="2.0.0">
+
+    <resource name="createOrderHeader" require-authentication="anonymous-all">
+        <method type="post" require-authentication="anonymous-all">
+            <service name="order.OrderServicesL2.create#OrderHeader" />
+        </method>
+    </resource>
+
+    <resource name="createOrderItem" require-authentication="anonymous-all">
+        <method type="post" require-authentication="anonymous-all">
+            <service name="order.OrderServicesL2.post#OrderPart" />
+        </method>
+    </resource>
+
+    <resource name="getOrders" require-authentication="anonymous-all">
+        <method type="get" require-authentication="anonymous-all">
+            <service name="order.OrderServicesL2.get#AllOrders" />
+        </method>
+    </resource>
+
+    <resource name="getOrdersByOrderId" require-authentication="anonymous-all">
+        <method type="get" require-authentication="anonymous-all">
+            <service name="order.OrderServicesL2.get#ByOrderId" />
+        </method>
+    </resource>
+
+    <resource name="updateOrder" require-authentication="anonymous-all">
+        <method type="get" require-authentication="anonymous-all">
+            <service name="order.OrderServicesL2.update#Order" />
+        </method>
+    </resource>
+</resource>
