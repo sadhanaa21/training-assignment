@@ -5,17 +5,6 @@
   {
     "_entity": "orders",
     "salesChannelEnumId": "ScWeb",
-    "orderId": "100052",
-    "productStoreId": "OMS_DEFAULT_STORE",
-    "placedDate": "2020-04-17T05:00:00+0000",
-    "orderName": "Test Order 1",
-    "grandTotal": 18.32,
-    "currencyUomId": "USD",
-    "statusId": "OrderApproved"
-  },
-  {
-    "_entity": "orders",
-    "salesChannelEnumId": "ScWeb",
     "orderId": "100102",
     "productStoreId": "OMS_DEFAULT_STORE",
     "placedDate": "2020-04-18T05:00:00+0000",
